@@ -5,7 +5,7 @@ We will use [OpenAI RealTime API](https://platform.openai.com/docs/guides/realti
 ## You Tube Video
 What the tutorial on YouTube here:
 
-![Real Time API - Talking Agent](https://www.youtube.com/watch?v=jNZbArKfwHs)
+[Real Time API - Talking Agent](https://www.youtube.com/watch?v=jNZbArKfwHs)
 
 
 ## Get started
