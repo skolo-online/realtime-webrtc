@@ -3,7 +3,9 @@ In this titirual we will create a talking agent that can litsen to what you are 
 We will use [OpenAI RealTime API](https://platform.openai.com/docs/guides/realtime-webrtc)
 
 ## You Tube Video
-What the tutorial on YouTube here
+What the tutorial on YouTube here:
+
+![Real Time API - Talking Agent](https://www.youtube.com/watch?v=jNZbArKfwHs)
 
 
 ## Get started
